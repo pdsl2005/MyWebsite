@@ -1,0 +1,45 @@
+
+body {background-color: #e0f7fa; font: 18px "Roboto Light", sans-serif; margin: 0 auto; padding: 0;}
+h1 {font: 50px "Roboto Light", sans-serif; }
+h2 {font: 50px "Roboto Light", sans-serif; }
+h3 {font: 50px "Roboto Light", sans-serif; }
+p {font: 25px "Roboto Light", sans-serif; }
+
+nav {
+    display: flex;
+    flex-direction: row;
+}
+.navbar {
+    background-color: #0097a7;
+    overflow: hidden;
+}
+.navbar ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+.navbar a {
+    float: left;
+    color: #C1F6ED;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+    font-size: 17px;}
+
+.navbar a:hover {
+    background-color: #ddd;
+    color:black;}
+
+.navbar a:active {
+    background-color: black;
+    color:white;
+}
+
+.navbar a.current {
+    background-color: cadetblue;
+    color: white;
+}
+
+.brand-logo{
+    display: flex;
+    margin-left: auto;
+    width:200px}
