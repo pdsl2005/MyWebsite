@@ -1,11 +1,5 @@
-
 body {
-    background-image: url("../images/homepage-1.jpg");
-    background-attachment: fixed;
-    background-position: center;
-    background-size: 100%;
-    background-color: rgba(255,255,255,0.15);
-    background-blend-mode: lighten;
+    background-color: #FFFFE4;
     font: 18px "Roboto Light", sans-serif;
     color: #404040;
     margin: 0 auto;
@@ -79,8 +73,12 @@ nav {
     bottom: 0;
     padding: 0 0 0 0}
 
-.textbox{
-    border: 0.5rem solid #78866B;
-    background-color: #FFFFE4;
-    color: #404040
+
+
+.backimage{
+    background-image: url("../images/homepage-1.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100%;
 }
+
