@@ -8,22 +8,27 @@ body {
 
 h1 {
     font: 75px "Roboto Light", sans-serif;
+    margin-bottom: 0;
+    padding: 0 0 0 0;
     display: inline-block;
+
 
 }
 
 h2 {
     font: 50px "Roboto Light", sans-serif;
+    margin-bottom: 0;
     display: inline-block;
 
 }
 h3 {
-    font: 50px "Roboto Light", sans-serif;
+    font: 30px "Roboto Light", sans-serif;
+    margin-bottom: 0;
     display: inline-block;
 
 }
 p {
-    font: 25px "Roboto Light", sans-serif;
+    font: 20px "Roboto Light", sans-serif;
     display: inline-block;
 }
 main {

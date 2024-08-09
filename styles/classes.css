@@ -4,7 +4,7 @@ body {
     background-attachment: fixed;
     background-position: center;
     background-size: 100%;
-    background-color: rgba(255,255,255,0.15);
+    background-color: rgba(255,255,255,0.4);
     background-blend-mode: lighten;
     font: 18px "Roboto Light", sans-serif;
     color: #404040;
@@ -80,7 +80,7 @@ nav {
     padding: 0 0 0 0}
 
 .textbox{
-    border: 0.5rem solid #78866B;
+    border: 0.35rem solid #78866B;
     background-color: #FFFFE4;
     color: #404040
 }
