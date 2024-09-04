@@ -1,5 +1,5 @@
 body {
-    background-color: #FFFFE4;
+    background-color: whitesmoke;
     font: 18px "Roboto Light", sans-serif;
     color: #404040;
     margin: 0 auto;
@@ -58,7 +58,7 @@ nav {
     font-size: 17px;}
 
 .navbar a:hover {
-    background-color: #FFFFE4;
+    background-color: whitesmoke;
     color:#78866B;}
 
 .navbar a:active {
@@ -68,7 +68,7 @@ nav {
 
 .navbar a.current {
     background-color: #78866B;
-    color: #FFFFE4;
+    color:whitesmoke;
 }
 
 .brand-logo{
