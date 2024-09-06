@@ -1,8 +1,8 @@
 body {
-    background-color: whitesmoke;
+    background-color: 	#FFFFFF;
     font: 18px "Roboto Light", sans-serif;
     color: #404040;
-    margin: 0 auto;
+    margin: 0;
     padding: 0;
 }
 
@@ -18,12 +18,14 @@ h1 {
 h2 {
     font: 50px "Roboto Light", sans-serif;
     margin-bottom: 0;
+    padding: 0 0 0 0;
     display: inline-block;
 
 }
 h3 {
     font: 30px "Roboto Light", sans-serif;
     margin-bottom: 0;
+    padding: 0 0 0 0;
     display: inline-block;
 
 }
@@ -36,18 +38,20 @@ main {
 }
 nav {
     position: fixed;
-    top: 0;
     width: 100%;
     display: inline;
 
 }
 .navbar {
-    background-color: #404040;
+    background-color: #486D5A;
     overflow: hidden;
+    margin: 0;
+    padding: 0;
 }
 .navbar ul {
     list-style-type: none;
     padding-left: 0;
+    margin: 0;
 }
 .navbar a {
     float: left;
@@ -58,8 +62,8 @@ nav {
     font-size: 17px;}
 
 .navbar a:hover {
-    background-color: whitesmoke;
-    color:#78866B;}
+    background-color: white;
+    color: #344E41;}
 
 .navbar a:active {
     background-color: black;
@@ -67,8 +71,8 @@ nav {
 }
 
 .navbar a.current {
-    background-color: #78866B;
-    color:whitesmoke;
+    background-color: #344E41;
+    color:white;
 }
 
 .brand-logo{
